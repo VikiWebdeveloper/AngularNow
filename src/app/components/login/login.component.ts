@@ -11,4 +11,7 @@ export class LoginComponent {
   loginClicked() {
     alert("Yeah, you clicked. Now Fuck off..");
   }
+  login(){
+    
+  }
 }
